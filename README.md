@@ -1,0 +1,1 @@
+As of 4/16/25 Mod is in beta the pathfinder may not function right and give different locations than the secrets are actually located, if any other bugs are found while using this mod please DM sk42221 on discord 
